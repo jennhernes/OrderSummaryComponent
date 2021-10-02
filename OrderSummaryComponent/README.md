@@ -53,7 +53,7 @@ I want to learn more about naming conventions and semantic HTML
 
 ### Useful resources
 
-- [Example resource 1](https://www.youtube.com/kepowob) - Kevin Powell's youtube channel is a really useful resource.
+- [Kevin Powell on Youtube](https://www.youtube.com/kepowob) - Kevin Powell's youtube channel is a really useful resource.
 
 ## Author
 
